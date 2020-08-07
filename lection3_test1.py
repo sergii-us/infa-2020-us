@@ -10,7 +10,7 @@ circle(350, 230, 20)
 brushColor("black")
 circle(255, 230, 12)
 circle(350, 230, 10)
-rectangle(255,300,350,300)
+rectangle(255,300,350,315)
 
 run()
 
